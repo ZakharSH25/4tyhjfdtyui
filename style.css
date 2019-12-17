@@ -1,0 +1,35 @@
+body {
+width: 800px;
+height: 800px;
+padding: 30px 20px 30px 50px;
+margin: 50px auto;
+font-family:  "Times New Roman";
+}
+#span1 {
+	text-decoration: underline;
+}
+#span2 {
+	text-decoration: underline;
+}
+
+#p1 {
+	text-align: center
+}
+#p2 {
+	text-align: left
+}
+#p3 {
+	text-align: right
+}
+#p4 {
+	text-align: center
+}
+#header1 {
+	text-align: center
+}
+#header2 {
+	text-align: center
+}
+#header3 {
+	text-align: center
+}
